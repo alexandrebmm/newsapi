@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "BBC NewsAPI"
 include(":app")
- 
+include(":data:httpmodule")
+include(":data:model")
